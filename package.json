@@ -2,6 +2,7 @@
   "name": "nodejs-helloworld",
   "version": "1.0.0",
   "description": "Hello World!",
+   key: "value"
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
